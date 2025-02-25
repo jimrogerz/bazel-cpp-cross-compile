@@ -10,7 +10,7 @@ Tested on Ubuntu with bazel 8.1.0. You'll need the gcc arm compiler and probably
 sudo apt install gcc-arm-linux-gnueabi
 ```
 
-Have a look in the toolchain directory - there's some system specific path glop you might need to update.
+Have a look in the toolchain directory - there's some system specific paths you might need to update.
 
 ## Linux x86_64 build
 
